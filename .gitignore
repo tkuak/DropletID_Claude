@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+# Except the notebook
+!BubbleID_for_Rmax_growth_rate.ipynb
+!.gitignore
+!README.md
